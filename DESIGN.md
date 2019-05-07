@@ -5,6 +5,7 @@
 Fantasy co-op puzzle platformer
 
 All work Copyright ©2019 by Ben Copeland
+
 Written by Ben Copeland
 
 Version # 0.0.1
