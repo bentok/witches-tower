@@ -1,9 +1,3 @@
-
-
-
-
-
-
 Design Document 
 
 Name of Game
